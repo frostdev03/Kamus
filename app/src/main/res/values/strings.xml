@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sukamus</string>
+    <string name="inggris_indo">Inggris - Indonesia</string>
+    <string name="indo_inggris">Indonesia - Inggris</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="masukan_kata">Masukkan kata di sini</string>
+    <string name="search_here">Search here</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="translate">Translator</string>
+</resources>

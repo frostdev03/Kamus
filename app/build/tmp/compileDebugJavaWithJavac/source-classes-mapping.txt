@@ -1,0 +1,30 @@
+com/frostdev/sukamus/fragment/FragmentIndonesiaInggris.java
+ com.frostdev.sukamus.fragment.FragmentIndonesiaInggris
+ com.frostdev.sukamus.fragment.FragmentIndonesiaInggris$1
+com/frostdev/sukamus/activities/SplashActivity.java
+ com.frostdev.sukamus.activities.SplashActivity
+ com.frostdev.sukamus.activities.SplashActivity$1
+ com.frostdev.sukamus.activities.SplashActivity$LoadData
+com/frostdev/sukamus/database/DatabaseContract.java
+ com.frostdev.sukamus.database.DatabaseContract
+ com.frostdev.sukamus.database.DatabaseContract$KamusColumns
+com/frostdev/sukamus/BuildConfig.java
+ com.frostdev.sukamus.BuildConfig
+com/frostdev/sukamus/database/KamusHelper.java
+ com.frostdev.sukamus.database.KamusHelper
+com/frostdev/sukamus/activities/MainActivity.java
+ com.frostdev.sukamus.activities.MainActivity
+com/frostdev/sukamus/adapter/KamusAdapter.java
+ com.frostdev.sukamus.adapter.KamusAdapter
+ com.frostdev.sukamus.adapter.KamusAdapter$KamusHolder
+com/frostdev/sukamus/database/DatabaseHelper.java
+ com.frostdev.sukamus.database.DatabaseHelper
+com/frostdev/sukamus/fragment/FragmentInggrisIndonesia.java
+ com.frostdev.sukamus.fragment.FragmentInggrisIndonesia
+ com.frostdev.sukamus.fragment.FragmentInggrisIndonesia$1
+com/frostdev/sukamus/utils/PreferencesManager.java
+ com.frostdev.sukamus.utils.PreferencesManager
+com/frostdev/sukamus/model/ModelKamus.java
+ com.frostdev.sukamus.model.ModelKamus
+com/frostdev/sukamus/fragment/FragmentTranslate.java
+ com.frostdev.sukamus.fragment.FragmentTranslate

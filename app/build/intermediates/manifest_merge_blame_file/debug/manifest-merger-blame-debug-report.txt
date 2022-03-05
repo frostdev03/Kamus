@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.frostdev.sukamus"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:5:5-66
+11-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:5:22-64
+12    //CREATED BY FROSTDEV
+13    <application
+13-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:8:5-23:19
+14        android:allowBackup="true"
+14-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ae31cc97a3f9383e0242537d69427d3a\core-1.1.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:14:9-40
+23        <activity android:name="com.frostdev.sukamus.activities.SplashActivity" >
+23-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:15:9-21:20
+23-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:15:19-60
+24            <intent-filter>
+24-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:17:17-69
+25-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:19:17-77
+27-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:19:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.frostdev.sukamus.activities.MainActivity" />
+30-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:22:9-61
+30-->D:\My Program\Sukamus\app\src\main\AndroidManifest.xml:22:19-58
+31    </application>
+32
+33</manifest>
